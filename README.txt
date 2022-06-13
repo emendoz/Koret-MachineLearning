@@ -14,7 +14,7 @@
 
 Status: Complete, but can be improved upon
 Description:
-Competed in the CS Education Data Mining Challenge. Researched and tested on the public dataset of student code submissions (Spring and Fall 2019) known as CodeWorkout provided by the organization hosting the challenge. Code files provided indicate work towards Track 1 of the challenge. Track 1, titled Knowledge Tracing, is predicting a students' performance on a problem before the start it based on prior problems.
+Competed in the CS Education Data Mining Challenge. Researched and tested on the public dataset of student code submissions (Spring and Fall 2019) known as CodeWorkout provided by the organization hosting the challenge. Code files provided indicate work towards Track 1 of the challenge. Track 1, titled Knowledge Tracing, is predicting a students' performance on a problem before they start it based on prior problems.
 
 This Google Drive contains 6 files including this README.txt file.
 * Task1ProgSnap.ipynb
